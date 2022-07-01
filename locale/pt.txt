@@ -3,20 +3,20 @@
 ## Action
 
 ### URL
-LinkBehaviour_80DD4EDD_A75A_8B7F_41D3_0ED416E232CB.source = http://wa.me/5548988428820
-LinkBehaviour_BB998E66_A73B_8B4D_41DC_2B2DC63F000F.source = http://wa.me/5548988428820
-LinkBehaviour_D64C60DD_A5EA_B88D_41E4_962CDB8EE9D9.source = http://wa.me/5548988428820
-LinkBehaviour_DD500C7B_A5EA_8F96_41D7_3BC6FD43EB26.source = http://wa.me/5548988428820
+LinkBehaviour_BB998E66_A73B_8B4D_41DC_2B2DC63F000F.source = http://wa.me/5548988343000
+LinkBehaviour_80DD4EDD_A75A_8B7F_41D3_0ED416E232CB.source = http://wa.me/5548988343000
+LinkBehaviour_DD500C7B_A5EA_8F96_41D7_3BC6FD43EB26.source = http://wa.me/5548988343000
+LinkBehaviour_D64C60DD_A5EA_B88D_41E4_962CDB8EE9D9.source = http://wa.me/5548988343000
+LinkBehaviour_DDFE1073_A5EB_7796_41E4_32A66FED10A8.source = https://g.page/r/CWzFD8Qe5bpAEAg/review
 LinkBehaviour_D64C70DD_A5EA_B88D_41D4_61E4E6655618.source = https://g.page/r/CWzFD8Qe5bpAEAg/review
-LinkBehaviour_DDFE1073_A5EB_7796_41E4_32A66FED10A8.source = https://g.page/r/CaCnUZ1_fwREEAg/review
-LinkBehaviour_D1990FC7_A5EA_88FD_41D7_AF76E14E518F.source = https://neurocrescer.com.br
 LinkBehaviour_CA57FB7C_A4DA_8982_41B1_E17DA7B4A125.source = https://www.escritolandia.com.br/
+LinkBehaviour_351DA439_A527_BF85_41C2_BD3E690AE4D6.source = https://www.escritolandia.com.br/
+LinkBehaviour_D19B2A69_A5EA_8BB5_41D4_8DC35FCE2703.source = https://www.facebook.com/escritolandiaoficial
 LinkBehaviour_D64D10DD_A5EA_B88D_41E1_2CDB614263C5.source = https://www.facebook.com/escritolandiaoficial
-LinkBehaviour_D19B2A69_A5EA_8BB5_41D4_8DC35FCE2703.source = https://www.facebook.com/neurocrescer/
+LinkBehaviour_D799FE92_BBDA_8B70_41D0_54F0FC35E9C8.source = https://www.google.com/maps/place/Escritol%C3%A2ndia+-+Centro/@-27.6021356,-48.5459218,15z/data=!4m2!3m1!1s0x0:0x40bae51ec40fc56c?sa=X&ved=2ahUKEwibobPdn9b4AhXSs5UCHQPTDpoQ_BJ6BAg5EB8
 LinkBehaviour_D64FE0DD_A5EA_B88D_41DB_E4D5F503A316.source = https://www.google.com/maps/place/Escritol%C3%A2ndia+-+Centro/@-27.6021356,-48.5459218,15z/data=!4m2!3m1!1s0x0:0x40bae51ec40fc56c?sa=X&ved=2ahUKEwibobPdn9b4AhXSs5UCHQPTDpoQ_BJ6BAg5EB8
-LinkBehaviour_D799FE92_BBDA_8B70_41D0_54F0FC35E9C8.source = https://www.google.com/maps/place/Neurocrescer/@-27.6223041,-48.6791125,17z/data=!3m1!4b1!4m5!3m4!1s0x952749cc97bc0001:0x44047f7f9d51a7a0!8m2!3d-27.6223089!4d-48.6769238
 LinkBehaviour_D64F40DD_A5EA_B88D_41DF_0BF2BB747244.source = https://www.instagram.com/escritolandiaoficial
-LinkBehaviour_DDB0FBF5_A5EB_889D_41C0_FD32DE4C9ED2.source = https://www.instagram.com/neurocrescer/
+LinkBehaviour_DDB0FBF5_A5EB_889D_41C0_FD32DE4C9ED2.source = https://www.instagram.com/escritolandiaoficial
 
 ## Hotspot
 
@@ -66,24 +66,24 @@ Button_B015C96F_A7EE_895C_41BE_E04DF84B563D.label = SAIBA MAIS
 Button_B015C96F_A7EE_895C_41BE_E04DF84B563D_mobile.label = SAIBA MAIS
 
 ### Image
-Image_D5299605_BBEA_BB50_41DC_AE2E75025F95_mobile.path = null
 Image_D5E1B771_BBED_99B0_41E5_4D9F29C046B1_mobile.path = null
 Image_D5E1B771_BBED_99B0_41E5_4D9F29C046B1.path = null
-Image_D076428F_BBEE_9B51_41D8_8305CD0276F8_mobile.path = null
 Image_D076428F_BBEE_9B51_41D8_8305CD0276F8.path = null
+Image_D076428F_BBEE_9B51_41D8_8305CD0276F8_mobile.path = null
 Image_D2215BB8_A57B_8893_41D0_6E5A71B31BBE.path = null
 Image_D2535171_BBEE_99B1_41E2_1DC5258E282C.path = null
 Image_D2535171_BBEE_99B1_41E2_1DC5258E282C_mobile.path = null
-Image_D71739CF_BBEA_88D0_41D4_E5F31C5A1997.path = null
 Image_D71739CF_BBEA_88D0_41D4_E5F31C5A1997_mobile.path = null
+Image_D71739CF_BBEA_88D0_41D4_E5F31C5A1997.path = null
 Image_D6BC0EB1_BBEF_88B1_41CD_057821C392CA_mobile.path = null
 Image_D6BC0EB1_BBEF_88B1_41CD_057821C392CA.path = null
+Image_CA380401_A525_9F85_41CE_3677D33E54A7.path = null
+Image_CA380401_A525_9F85_41CE_3677D33E54A7.url = skin/Image_CA380401_A525_9F85_41CE_3677D33E54A7_pt.png
 Image_D076428F_BBEE_9B51_41D8_8305CD0276F8_mobile.url = skin/Image_D076428F_BBEE_9B51_41D8_8305CD0276F8_mobile_pt.png
 Image_D076428F_BBEE_9B51_41D8_8305CD0276F8.url = skin/Image_D076428F_BBEE_9B51_41D8_8305CD0276F8_pt.png
 Image_D2215BB8_A57B_8893_41D0_6E5A71B31BBE.url = skin/Image_D2215BB8_A57B_8893_41D0_6E5A71B31BBE_pt.png
 Image_D2535171_BBEE_99B1_41E2_1DC5258E282C_mobile.url = skin/Image_D2535171_BBEE_99B1_41E2_1DC5258E282C_mobile_pt.png
 Image_D2535171_BBEE_99B1_41E2_1DC5258E282C.url = skin/Image_D2535171_BBEE_99B1_41E2_1DC5258E282C_pt.png
-Image_D5299605_BBEA_BB50_41DC_AE2E75025F95_mobile.url = skin/Image_D5299605_BBEA_BB50_41DC_AE2E75025F95_mobile_pt.png
 Image_D5E1B771_BBED_99B0_41E5_4D9F29C046B1_mobile.url = skin/Image_D5E1B771_BBED_99B0_41E5_4D9F29C046B1_mobile_pt.png
 Image_D5E1B771_BBED_99B0_41E5_4D9F29C046B1.url = skin/Image_D5E1B771_BBED_99B0_41E5_4D9F29C046B1_pt.png
 Image_D6BC0EB1_BBEF_88B1_41CD_057821C392CA_mobile.url = skin/Image_D6BC0EB1_BBEF_88B1_41CD_057821C392CA_mobile_pt.png
